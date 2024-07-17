@@ -90,6 +90,9 @@ import InfoBeans from './company/InfoBeans-removebg-preview.png';
 import NextUI from './company/nextui.png';
 import Jayway from './company/jayway.png';
 import Codemill from './company/codemill.png';
+import Zocks from './company/zocks_jpeg.jpg';
+import UpSorce from './company/upsource.png';
+import Rackspace from './company/rackspace.png';
 
 import moreton from "./project/moreton.png";
 import jobit from "./project/jobit.png";
@@ -215,5 +218,8 @@ export {
   NextUI,
   Jayway,
   Codemill,
+  Zocks,
+  UpSorce,
+  Rackspace,
   University
 };

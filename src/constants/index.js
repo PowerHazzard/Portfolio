@@ -98,9 +98,12 @@ import {
   Jayway,
   Codemill,
   moreton,
+  Zocks,
+  UpSorce,
+  Rackspace,
 } from "../assets";
 
-export const name = "Justin Lee";
+export const name = "Nasson Hazzard";
 export const role = "I am a Frontend Engineer based in Oregon, US.";
 
 export const overview =
@@ -287,10 +290,10 @@ const technologies = [
 const experiences = [
   {
     title: "Front-End Engineer",
-    company_name: "NextUI",
-    icon: NextUI,
+    company_name: "Zocks",
+    icon: Zocks,
     iconBg: "#383E56",
-    date: "December 2023 - June 2024",
+    date: "May 2023 - June 2024",
     points: [
       "Dark-bright Theme",
       "Optimize UI Performance & Reduce HTTP requests.",
@@ -301,10 +304,10 @@ const experiences = [
   },
   {
     title: "Web Developer",
-    company_name: "Jayway",
-    icon: Jayway,
+    company_name: "Upsource",
+    icon: UpSorce,
     iconBg: "#383E56",
-    date: "September 2019 - November 2023",
+    date: "September 2019 - Apr 2023",
     points: [
       "Enhanced Application maintability by refactored legacy codebase.",
       "Integrated third-party APIs.",
@@ -313,8 +316,8 @@ const experiences = [
   },
   {
     title: "Junior/Middle Front-End Engineer",
-    company_name: "CodeMill",
-    icon: Codemill,
+    company_name: "Rackspace",
+    icon: Rackspace,
     iconBg: "#E6DEDD",
     date: "August 2017 - August 2019",
     points: [
@@ -621,7 +624,7 @@ const projects = [
 
 const educations = [
   {
-    school: "Stockholm University",
+    school: "The University of Texas",
     degree: "Bachelor's Degree in Computer Science",
     from: "September 2013",
     to: "August 2017",
