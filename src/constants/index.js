@@ -97,7 +97,6 @@ import {
   NextUI,
   Jayway,
   Codemill,
-  moreton,
   Zocks,
   UpSorce,
   Rackspace,
@@ -467,29 +466,6 @@ const projects = [
     demo_link: "https://www.johnfowlerholidays.com/",
   },
   {
-    name: "Moreton",
-    description:
-      "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
-
-    tags: [
-      {
-        name: "React",
-        color: "text-blue-500",
-      },
-      {
-        name: "mongodb",
-        color: "text-green-400",
-      },
-      {
-        name: "tailwind CSS",
-        color: "text-violet-500",
-      },
-    ],
-    image: moreton,
-    // source_code_link: "https://www.moreton.com/",
-    demo_link: "https://www.moreton.com/",
-  },
-  {
     name: "Christmas decor",
     description:
       "This is an e-commerce website. The selected products are stored in the cart even after the page is reloaded thanks to local storage. There are various sliders written in vanilla js and slink js.",
@@ -510,7 +486,6 @@ const projects = [
     ],
     image: christmas_decor,
     source_code_link: "https://github.com/Justin-Darkness/christmas-decor",
-    demo_link: "https://www.moreton.com/",
   },
   {
     name: "MERN Ecommerce",
