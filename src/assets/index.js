@@ -94,7 +94,7 @@ import Zocks from './company/zocks_jpeg.jpg';
 import UpSorce from './company/upsource.png';
 import Rackspace from './company/rackspace.png';
 
-import moreton from "./project/moreton.png";
+// import moreton from "./project/moreton.png";
 import jobit from "./project/jobit.png";
 import tripguide from "./project/tripguide.png";
 import christmas_decor from "./project/Christmas decor.png";
