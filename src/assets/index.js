@@ -138,7 +138,6 @@ export {
   shopify,
   starbucks,
   tesla,
-  moreton,
   jobit,
   tripguide,
   agile,
