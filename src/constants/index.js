@@ -100,16 +100,19 @@ import {
   Zocks,
   UpSorce,
   Rackspace,
+  Mocha,
+  Reducto,
+  FastAPI,
 } from "../assets";
 
 export const name = "Nasson Hazzard";
-export const role = "I am a Frontend Engineer based in Oregon, US.";
+export const role =
+  "I am a Senior Full Stack Software Engineer based in Texas, US.";
 
 export const overview =
-  " I am a skilled Frontend Engineer with expertise in JavaScript Frameworks such as React, Vue.js, Angular and UI/UX Design. I possess a strong knowledge of various frameworks and programming languages, as well as problem-solving skills that enable me to identify scalability issues and improve overall system processes.";
+  " I am a skilled Senior Full Stack Software Engineer with expertise in JavaScript Frameworks including react, vue, next.js, node.js, express.js and also python based Frameworks such as Django, Flask, FastAPI etc. I possess a strong knowledge of various frameworks and programming languages, as well as problem-solving skills that enable me to identify scalability issues and improve overall system processes.";
 
 export const navLinks = [
-  
   {
     id: "about",
     title: "About",
@@ -134,31 +137,35 @@ export const navLinks = [
 
 const services = [
   {
-    title: "Frontend Developer",
+    title: "Frontend Development",
     icon: frontend,
   },
   {
-    title: "React Developer",
+    title: "Backend Development",
     icon: reactjs,
   },
   {
-    title: "Vue.js Developer",
-    icon: vuejs,
-  },
-  {
-    title: "UI/UX Designer",
+    title: "UI/UX Designe",
     icon: blockchain,
   },
-  // {
-  //   title: "AI Engineer",
-  //   icon: AI,
-  // },
+  {
+    title: "API Integration",
+    icon: AI,
+  },
 ];
 
 const technologies = [
   {
     set_name: "Program Language",
     skill_sets: [
+      {
+        name: "C/C++",
+        icon: c,
+      },
+      {
+        name: "Python",
+        icon: python,
+      },
       {
         name: "HTML5",
         icon: html,
@@ -179,10 +186,9 @@ const technologies = [
         name: "PHP",
         icon: php,
       },
-
       {
-        name: "Python",
-        icon: python,
+        name: "Java",
+        icon: java,
       },
     ],
   },
@@ -205,11 +211,19 @@ const technologies = [
         name: "GraphQL",
         icon: graphql,
       },
+      {
+        name: "Elasticsearch",
+        icon: elasitsearch,
+      },
     ],
   },
   {
     set_name: "Libraries & Frameworks",
     skill_sets: [
+      {
+        name: "Node.js",
+        icon: nodejs,
+      },
       {
         name: "Angular",
         icon: angular,
@@ -248,10 +262,25 @@ const technologies = [
         name: "Chakura UI",
         icon: chakuraUI,
       },
-
       {
         name: "Jest",
         icon: jest,
+      },
+      {
+        name: "Mocha",
+        icon: Mocha,
+      },
+      {
+        name: "Django",
+        icon: django,
+      },
+      {
+        name: "GraphQL",
+        icon: graphql,
+      },
+      {
+        name: "FastAPI",
+        icon: FastAPI,
       },
     ],
   },
@@ -288,29 +317,33 @@ const technologies = [
 
 const experiences = [
   {
-    title: "Front-End Engineer",
-    company_name: "Zocks",
-    icon: Zocks,
+    title: "Senior Full Stack Software Engineer ",
+    company_name: "Reducto",
+    icon: Reducto,
     iconBg: "#383E56",
-    date: "May 2023 - June 2024",
+    date: "Decmber 2022 - June 2024",
     points: [
       "Dark-bright Theme",
       "Optimize UI Performance & Reduce HTTP requests.",
       "Test Driven Development adoption",
-      "no runtime styles, no unnecessary classes",
-      "robust third-party authentication",
+      "No runtime styles, no unnecessary classes",
+      "Robust third-party authentication",
+      "Led a development team",
+      "Constructed Distributed database",
+      "Developed Chatbot with Coqui, OpenAI-whisper and customized LLM model",
     ],
   },
   {
-    title: "Web Developer",
+    title: "Full Stack Developer",
     company_name: "Upsource",
     icon: UpSorce,
     iconBg: "#383E56",
-    date: "September 2019 - Apr 2023",
+    date: "September 2019 - November 2022",
     points: [
       "Enhanced Application maintability by refactored legacy codebase.",
       "Integrated third-party APIs.",
       "Implemented multi-language support for an application",
+      "Designed scalable MongoDB database architecture",
     ],
   },
   {

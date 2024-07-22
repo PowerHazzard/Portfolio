@@ -56,26 +56,28 @@ import sass from "./tech/Sass.png";
 import supabase from "./tech/supabase.png";
 import chakuraUI from "./tech/chakura-ui.png";
 import reduxsaga from "./tech/redux-saga.png";
-import Go from './tech/Go.png';
-import Rust from './tech/Rust.png';
-import ShellScripting from './tech/Shell Scripting.png';
-import Vyper from './tech/Vyper.png';
-import cassandra from './tech/cassandra.png';
-import IPFS from './tech/IPFS.png';
-import web3 from './tech/web3.png';
-import Hasura from './tech/Hasura.png';
-import Geth from './tech/geth.png';
-import Hardhat from './tech/hardhat.png';
-import Truffle from './tech/Truffle.png';
-import Embark from './tech/Embark.png';
-import Ganache from './tech/Ganache.png';
-import Remix from './tech/Remix.png';
-import Celo from './tech/celo.png';
-import Solidity from './tech/solidity.png';
-import Laravel from './tech/laravel.png';
-import Firebase from './tech/firebase.png';
-import AWS from './tech/aws.png';
-import Linux from './tech/linux.png';
+import Go from "./tech/Go.png";
+import Rust from "./tech/Rust.png";
+import ShellScripting from "./tech/Shell Scripting.png";
+import Vyper from "./tech/Vyper.png";
+import cassandra from "./tech/cassandra.png";
+import IPFS from "./tech/IPFS.png";
+import web3 from "./tech/web3.png";
+import Hasura from "./tech/Hasura.png";
+import Geth from "./tech/geth.png";
+import Hardhat from "./tech/hardhat.png";
+import Truffle from "./tech/Truffle.png";
+import Embark from "./tech/Embark.png";
+import Ganache from "./tech/Ganache.png";
+import Remix from "./tech/Remix.png";
+import Celo from "./tech/celo.png";
+import Solidity from "./tech/solidity.png";
+import Laravel from "./tech/laravel.png";
+import Firebase from "./tech/firebase.png";
+import AWS from "./tech/aws.png";
+import Linux from "./tech/linux.png";
+import Mocha from "./tech/mocha.png";
+import FastAPI from "./tech/fastapi.png";
 
 import meta from "./company/meta.png";
 import duckduckgo from "./company/duckduckgo.png";
@@ -84,15 +86,16 @@ import zuhlke from "./company/Zuhlke.png";
 import shopify from "./company/shopify.png";
 import starbucks from "./company/starbucks.png";
 import tesla from "./company/tesla.png";
-import Grab from './company/Grab.png';
-import inforive_Solutions from './company/Inforive_Solutions-removebg-preview.png';
-import InfoBeans from './company/InfoBeans-removebg-preview.png';
-import NextUI from './company/nextui.png';
-import Jayway from './company/jayway.png';
-import Codemill from './company/codemill.png';
-import Zocks from './company/zocks_jpeg.jpg';
-import UpSorce from './company/upsource.png';
-import Rackspace from './company/rackspace.png';
+import Grab from "./company/Grab.png";
+import inforive_Solutions from "./company/Inforive_Solutions-removebg-preview.png";
+import InfoBeans from "./company/InfoBeans-removebg-preview.png";
+import NextUI from "./company/nextui.png";
+import Jayway from "./company/jayway.png";
+import Codemill from "./company/codemill.png";
+import Zocks from "./company/zocks_jpeg.jpg";
+import UpSorce from "./company/upsource.png";
+import Rackspace from "./company/rackspace.png";
+import Reducto from "./company/reducto.png";
 
 import jobit from "./project/jobit.png";
 import tripguide from "./project/tripguide.png";
@@ -102,14 +105,14 @@ import angularProSidebar from "./project/angular-pro-sidebar.png";
 import materialKitReact from "./project/Material-Kit-React.png";
 import vuePokemon from "./project/vue-pokemon.png";
 import chatGPTUI from "./project/chatGPTUI.png";
-import Paxful from './project/paxful.png';
-import Bitso from './project/bitso.png';
-import Bitcovia from './project/bitcoiva.png';
-import ExamGenie from './project/ExamGenie.png';
-import Pinpoint from './project/pinpoint.png';
-import Johnfowlerholiday from './project/johnfowlerholidays.png';
+import Paxful from "./project/paxful.png";
+import Bitso from "./project/bitso.png";
+import Bitcovia from "./project/bitcoiva.png";
+import ExamGenie from "./project/ExamGenie.png";
+import Pinpoint from "./project/pinpoint.png";
+import Johnfowlerholiday from "./project/johnfowlerholidays.png";
 
-import University from './university.png';
+import University from "./university.png";
 
 export {
   logo,
@@ -212,6 +215,8 @@ export {
   Firebase,
   Linux,
   AWS,
+  Mocha,
+  FastAPI,
   Johnfowlerholiday,
   NextUI,
   Jayway,
@@ -219,5 +224,6 @@ export {
   Zocks,
   UpSorce,
   Rackspace,
-  University
+  Reducto,
+  University,
 };
