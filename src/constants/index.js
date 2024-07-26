@@ -518,7 +518,7 @@ const projects = [
       },
     ],
     image: christmas_decor,
-    source_code_link: "https://github.com/Justin-Darkness/christmas-decor",
+    source_code_link: "https://github.com/PowerHazzard/christmas-decor",
   },
   {
     name: "MERN Ecommerce",
@@ -557,7 +557,7 @@ const projects = [
       },
     ],
     image: mernEcommerce,
-    source_code_link: "https://github.com/Justin-Darkness/mern-ecommerce",
+    source_code_link: "https://github.com/PowerHazzard/mern-ecommerce",
     demo_link: "https://mern-store.onrender.com/",
   },
   {
@@ -593,7 +593,7 @@ const projects = [
       },
     ],
     image: angularProSidebar,
-    source_code_link: "https://github.com/Justin-Darkness/angular-pro-sidebar",
+    source_code_link: "https://github.com/PowerHazzard/angular-pro-sidebar",
     demo_link: "https://azouaoui-med.github.io/angular-pro-sidebar/demo/",
   },
   {
@@ -625,7 +625,7 @@ const projects = [
       },
     ],
     image: chatGPTUI,
-    source_code_link: "https://github.com/Justin-Darkness/chatbot-ui",
+    source_code_link: "https://github.com/PowerHazzard/chatbot-ui",
     demo_link: "https://chatbotui.com/",
   },
 ];
